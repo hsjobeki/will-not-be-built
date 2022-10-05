@@ -1,0 +1,22 @@
+{
+  "name": "will-not-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "test"
+  ],
+  "scripts": {
+    "build": "echo \"Build step executed\" > ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsjobeki/will-not-be-built.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsjobeki/will-not-be-built/issues"
+  },
+  "homepage": "https://github.com/hsjobeki/will-not-be-built#readme"
+}
